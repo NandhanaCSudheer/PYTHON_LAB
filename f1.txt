@@ -1,0 +1,3 @@
+The correct description of system software is that it is used to control the operations of a computer.
+It doesn't directly focus on running applications 
+or specifically debugging 

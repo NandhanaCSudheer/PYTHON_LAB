@@ -1,0 +1,6 @@
+The correct description of system software is that it is used to control the operations of a computer.
+It includes the operating system, device drivers, utilities, and other software that manages hardware and allows other software to run effectively.
+It doesn't directly focus on running applications 
+(that's more of an application software role)
+or specifically debugging 
+(which is usually done by debugging tools, though the system software can assist in that process).Thank You
