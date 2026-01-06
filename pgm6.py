@@ -6,3 +6,5 @@ print("Sum of first 100 even numbers = ",sum)
 for i in range(1,101):
     total=total+2*i
 print("Sum of first 100 even numbers = ",total)
+tot=(100*101)
+print(tot)

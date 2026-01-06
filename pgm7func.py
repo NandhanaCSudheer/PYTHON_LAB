@@ -1,10 +1,10 @@
 n=int(input("Enter the number whose factorial is to be find: "))
 def func(n):
     fact=1
-    if n<=0:
+    if n<0:
         print("Enter a positive number")
         return None
-    elif n==1:
+    elif n==1 or n==0:
         print("Factorial of ",n," = 1")
         return 1
     else:

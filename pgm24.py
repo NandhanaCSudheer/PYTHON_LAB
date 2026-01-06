@@ -12,3 +12,4 @@ for i in range (0,l):
         if items[i][1]>items[j][1]:
             items[i],items[j]=items[j],items[i]
 print(items)
+print(dict(reversed(items)))

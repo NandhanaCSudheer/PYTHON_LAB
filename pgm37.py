@@ -6,7 +6,7 @@ class Rectangle:
     def area(self):
         return self.length*self.breadth
     
-    def perimeter(self,):
+    def perimeter(self):
         return 2*(self.length+self.breadth)
     
 a=int(input("Enter the length of the first rectangle :"))
